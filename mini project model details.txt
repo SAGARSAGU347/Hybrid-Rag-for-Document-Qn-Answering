@@ -1,0 +1,9 @@
+bartowski/Llama-3.2-3B-Instruct-GGUF/Llama-3.2-3B-Instruct-Q4_K_M.gguf@4096
+lm-kit/bge-m3-gguf/bge-m3-Q4_K_M.gguf@1024
+sqlite:///raglite.db
+
+
+altern
+bartowski/Llama-3.2-3B-Instruct-GGUF/Llama-3.2-3B-Instruct-Q4_K_M.gguf@2048
+lm-kit/bge-m3-gguf/bge-m3-Q4_K_M.gguf@1024
+sqlite:///raglite.db
